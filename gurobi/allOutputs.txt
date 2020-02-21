@@ -1,0 +1,23 @@
+n = 4
+c:
+objVal = 3.09090909091
+d:
+objVal = 8.0
+
+n = 6
+c:
+objVal = 3.17647058824
+d:
+objVal = 12.0
+
+n = 8
+c:
+objVal = 3.21739130435
+d:
+objVal = 15.0
+
+n = 10
+c:
+objVal = 3.24137931034
+d:
+objVal = 18.0

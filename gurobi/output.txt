@@ -1,0 +1,7 @@
+n = 3
+c:
+objVal = 1.0
+d:
+objVal = 3.0
+
+

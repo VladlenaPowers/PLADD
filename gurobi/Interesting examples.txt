@@ -1,0 +1,68 @@
+ns = [5,6,7]
+
+for n in ns:
+
+    T = 6 * n - 1
+    K = 3 * n - 1
+    length = [[],[],[]]
+
+    for i in range(n):
+        length[0].append(1)
+        length[0].append(4)
+        length[0].append(1)
+
+        length[1].append(3)
+        length[1].append(3)
+
+        length[2].append(5)
+        length[2].append(1)
+
+ns = [7,8,9,10]
+
+for n in ns:
+
+    T = 6 * n - 1
+    K = 3 * n - 1
+    length = [[],[]]
+
+    for i in range(n):
+        length[0].append(1)
+        length[0].append(4)
+        length[0].append(1)
+
+        length[1].append(3)
+        length[1].append(3)
+
+
+ns = [1,2,3,4,5,6,7]
+
+for n in ns:
+
+    T = 6 * n - 1
+    K = 3 * n - 1
+    length = [[],[]]
+
+    for i in range(n):
+        length[0].append(1)
+        length[0].append(4)
+        length[0].append(1)
+
+        length[1].append(3)
+        length[1].append(3)
+
+
+ns = [1,2,3,4,5,6,7,8,9,10]
+
+for n in ns:
+
+    T = 6 * n - 1
+    K = 3 * n - 1
+    length = [[],[]]
+
+    for i in range(n):
+        length[0].append(2)
+        length[0].append(2)
+        length[0].append(2)
+
+        length[1].append(3)
+        length[1].append(3)
